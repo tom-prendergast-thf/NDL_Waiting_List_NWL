@@ -20,7 +20,7 @@ By engaging with local stakeholders, hip replacements and cardiothoracic surgery
 
 The descriptive portions of this study employ a retrospective cohort design to explore the wait lengths, pathway outcomes, and various health and demographic breakdowns of the elective care waiting list. 
 
-The causal portion uses a difference-in-difference study design to assess the effect of waiting for longer than target periods of time on healthcare use and costs.
+The causal portion uses a difference-in-difference study design to assess the effect of waiting for longer than target periods of time on healthcare use and costs for hip replacements and cardiothoracic surgery.
 
 ## Project Structure
 ```
@@ -37,21 +37,21 @@ The causal portion uses a difference-in-difference study design to assess the ef
 
 ## Authors and Contributors
 
-THE NWL NDL team includes specialists from [Imperial College Health Partners (ICHP)](https://imperialcollegehealthpartners.com/), NWL NHS Integrated Care Board (ICB), and Imperial College London (ICL).
+THE NWL NDL team includes specialists from [Imperial College Health Partners (ICHP)](https://imperialcollegehealthpartners.com/), NWL NHS Integrated Care Board (ICB), and Imperial College London (ICL), as well as two clinical leads with specialisms related to the procedures of interest in the causal analysis.
 
 * Marcus Yarwood, ICHP
-* Kyle Lee-Crossett, ICHP 
-* Roberto Fernandez Crespo, ICL
-* Uchenna Agu, ICHP
 * Jodie Chan, ICL
+* Roberto Fernandez Crespo, ICL
+* Alex Cheuk, ICHP
+* Uchenna Agu, ICHP
+* Kyle Lee-Crossett, ICHP 
 * Rafal Kulakowski, ICHP
-* Chris Russell, NWL NHS ICB
-* Sadia Khan, NWL NHS ICB
 * Owen Melbourne, NWL NHS ICB
 * Melanie Leis, ICL
 * Matthew Chisambi, ICHP
-* Alex Cheuk, ICHP
-
+* Chris Russell, Clinical Lead, NHSE
+* Sadia Khan, Clinical Lead, Chelsea & Westminster Hospital NHS Foundation Trust
+  
 
 ## Version History
 
